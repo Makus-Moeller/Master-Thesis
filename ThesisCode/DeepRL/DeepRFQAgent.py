@@ -6,7 +6,7 @@ from algortihms import *
 from DeepRL.Algorithms.BCQ import BCQ
 from DeepRL.Algorithms.miniBatch_Q import MBQ
 from DeepRL.Algorithms.CQL import CQL
-from DeepRL.Algorithms.CQLSegmented_continious import CQLSegmented
+from DeepRL.Algorithms.SS_MFE import CQLSegmented
 from TabularRL.RFQAgent import DataTransformer
 from DeepRL.ExtractPolicies import *
 from typing import Union
